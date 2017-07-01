@@ -1,0 +1,25 @@
+baseurl = "http://www.allthingscontainerized.com"
+languageCode = "en"
+title = "All Things Containerized!"
+theme = "hemingway"
+copyright = "&copy; <a href=\"https://github.com/varadharajan\">Varadharajan</a> 2017"
+#disqusShortname = "shortname"
+#googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://github.com/varadharajan"
+fa_icon = "fa-github"
+
+[[params.social]]
+url = "https://twitter.com/srinathsmn"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
