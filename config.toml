@@ -3,8 +3,7 @@ languageCode = "en"
 title = "All Things Containerized!"
 theme = "hemingway"
 copyright = "&copy; <a href=\"https://github.com/varadharajan\">Varadharajan</a> 2017"
-#disqusShortname = "shortname"
-#googleAnalytics = ""
+publishDir = "docs"
 
 [params]
 
